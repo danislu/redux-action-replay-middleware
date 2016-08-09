@@ -33,5 +33,9 @@
   },
   "eslintConfig": {
     "extends": "./node_modules/react-scripts/config/eslint.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danislu/redux-action-replay-middleware"
   }
 }
