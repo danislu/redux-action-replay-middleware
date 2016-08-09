@@ -1,6 +1,6 @@
 {
   "name": "redux-action-replay-middleware",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Middleware for storing redux actions in localstorage and replaying them later. Usefull for QA reproducing bugs etc.",
   "main": "dist/index.js",
   "keywords": [
