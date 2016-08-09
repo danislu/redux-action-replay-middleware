@@ -26,3 +26,5 @@ Use ```replay=<id>``` as a qwuery parameter when loading your app to replay the 
 ```
 http://myapp?replay=Foo
 ```
+
+If neither of them are present it does nothing.
